@@ -1,0 +1,30 @@
+{
+  "name": "furkot-galileo-data",
+  "version": "0.0.0",
+  "description": "Data used by Furkot modules dealing with Galileo GPX format.",
+  "author": {
+    "name": "Natalia Kowalczyk",
+    "email": "melitele@furkot.com",
+    "url": "https://melitele.me"
+  },
+  "repository": "furkot/galileo-data",
+  "license": "MIT",
+  "keywords": [
+    "furkot-galileo-data",
+    "furkot",
+    "galileo"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.7",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
