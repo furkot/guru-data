@@ -5,7 +5,7 @@
 
 # furkot-galileo-data
 
-Data used by Furkot modules dealing with Galileo GPX format.
+Data used by Furkot modules dealing with GPX files with data specific to [Galileo] offline maps and navigation app.
 
 ## Install
 
@@ -36,3 +36,5 @@ MIT © [Natalia Kowalczyk](https://melitele.me)
 
 [deps-dev-image]: https://img.shields.io/david/dev/furkot/galileo-data.svg
 [deps-dev-url]: https://david-dm.org/furkot/galileo-data?type=dev
+
+[Galileo]: https://galileo-app.com/
