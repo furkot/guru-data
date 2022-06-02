@@ -1,20 +1,20 @@
-var data = require('../');
+const assert = require('assert');
+const data = require('../');
 
 describe('furkot galileo data', function () {
   it('should be an object', function () {
-    data.should.have.property('toFurkot').be.type('object');
-    data.should.have.property('toGalileo').be.type('object');
-    data.should.have.property('colors').be.type('object');
+    assert.equal(typeof data.toFurkot, 'object');
+    assert.equal(typeof data.toGalileo, 'object');
+    assert.equal(typeof data.colors, 'object');
   });
 
 
   it('should be consistent', function () {
     Object
-    .keys(data.toFurkot)
-    .forEach(function(galileoIcon) {
-      var furkotIcon = data.toFurkot[galileoIcon];
-      galileoIcon.should.eql('' + data.toGalileo[furkotIcon]);
-    });
+      .entries(data.toFurkot)
+      .forEach(
+        ([galileoIcon, furkotIcon]) => assert.equal(galileoIcon, data.toGalileo[furkotIcon])
+      );
   });
 
 });
