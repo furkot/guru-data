@@ -1,5 +1,5 @@
 {
-  "name": "furkot-galileo-data",
+  "name": "@furkot/galileo-data",
   "version": "1.0.1",
   "description": "Data used by Furkot modules dealing with Galileo GPX format.",
   "author": {
