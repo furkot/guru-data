@@ -1,18 +1,18 @@
 {
-  "name": "@furkot/galileo-data",
+  "name": "@furkot/guru-data",
   "version": "1.0.2",
-  "description": "Data used by Furkot modules dealing with Galileo GPX format.",
+  "description": "Data used by Furkot modules dealing with Guru GPX format.",
   "author": {
     "name": "Natalia Kowalczyk",
     "email": "melitele@furkot.com",
     "url": "https://melitele.me"
   },
-  "repository": "furkot/galileo-data",
+  "repository": "furkot/guru-data",
   "license": "MIT",
   "keywords": [
-    "furkot-galileo-data",
     "furkot",
-    "galileo"
+    "galileo",
+    "guru"
   ],
   "dependencies": {},
   "devDependencies": {
