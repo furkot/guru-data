@@ -1,6 +1,6 @@
 {
   "name": "@furkot/guru-data",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Data used by Furkot modules dealing with Guru GPX format.",
   "author": {
     "name": "Natalia Kowalczyk",
