@@ -1,1 +1,1 @@
-module.exports = require('./lib/guru');
+module.exports = require('./lib');
