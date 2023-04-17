@@ -1,0 +1,539 @@
+.guru {
+    background-image: url(48x48.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.guru_blue_bar {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -1px;
+}
+
+.guru_blue_cafe {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -1px;
+}
+
+.guru_blue_casino {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -1px;
+}
+
+.guru_blue_disco {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -1px;
+}
+
+.guru_blue_drinking_water {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -1px;
+}
+
+.guru_blue_fast_food {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -1px;
+}
+
+.guru_blue_hotel {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -1px;
+}
+
+.guru_blue_karaoke {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -1px;
+}
+
+.guru_blue_pizza {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -1px;
+}
+
+.guru_blue_pub {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -51px;
+}
+
+.guru_blue_radio {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -51px;
+}
+
+.guru_blue_restaurant {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -51px;
+}
+
+.guru_blue_star {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -51px;
+}
+
+.guru_blue_wifi {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -51px;
+}
+
+.guru_gray_airport {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -51px;
+}
+
+.guru_gray_bike {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -51px;
+}
+
+.guru_gray_bus {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -51px;
+}
+
+.guru_gray_camping {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -51px;
+}
+
+.guru_gray_car {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -101px;
+}
+
+.guru_gray_car_rental {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -101px;
+}
+
+.guru_gray_car_service {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -101px;
+}
+
+.guru_gray_car_sharing {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -101px;
+}
+
+.guru_gray_caravan {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -101px;
+}
+
+.guru_gray_charging_station {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -101px;
+}
+
+.guru_gray_ferry {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -101px;
+}
+
+.guru_gray_gas_station {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -101px;
+}
+
+.guru_gray_helicopter {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -101px;
+}
+
+.guru_gray_info {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -151px;
+}
+
+.guru_gray_parking {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -151px;
+}
+
+.guru_gray_railway {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -151px;
+}
+
+.guru_gray_speedcam {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -151px;
+}
+
+.guru_gray_star {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -151px;
+}
+
+.guru_gray_tram {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -151px;
+}
+
+.guru_green_ATM {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -151px;
+}
+
+.guru_green_bank {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -151px;
+}
+
+.guru_green_beauty_salon {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -151px;
+}
+
+.guru_green_education {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -201px;
+}
+
+.guru_green_office {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -201px;
+}
+
+.guru_green_police_station {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -201px;
+}
+
+.guru_green_post_office {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -201px;
+}
+
+.guru_green_residence {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -201px;
+}
+
+.guru_green_star {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -201px;
+}
+
+.guru_green_tree {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -201px;
+}
+
+.guru_orange_bowling {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -201px;
+}
+
+.guru_orange_golf_course {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -201px;
+}
+
+.guru_orange_gym {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -251px;
+}
+
+.guru_orange_heart {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -251px;
+}
+
+.guru_orange_hiking {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -251px;
+}
+
+.guru_orange_kayak {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -251px;
+}
+
+.guru_orange_man {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -251px;
+}
+
+.guru_orange_paragliding {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -251px;
+}
+
+.guru_orange_playground {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -251px;
+}
+
+.guru_orange_pool {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -251px;
+}
+
+.guru_orange_spa {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -251px;
+}
+
+.guru_orange_sport {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -301px;
+}
+
+.guru_orange_star {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -301px;
+}
+
+.guru_purple_1 {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -301px;
+}
+
+.guru_purple_10 {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -301px;
+}
+
+.guru_purple_2 {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -301px;
+}
+
+.guru_purple_3 {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -301px;
+}
+
+.guru_purple_4 {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -301px;
+}
+
+.guru_purple_5 {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -301px;
+}
+
+.guru_purple_6 {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -301px;
+}
+
+.guru_purple_7 {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -351px;
+}
+
+.guru_purple_8 {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -351px;
+}
+
+.guru_purple_9 {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -351px;
+}
+
+.guru_purple_baby_goods {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -351px;
+}
+
+.guru_purple_clothing_store {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -351px;
+}
+
+.guru_purple_jewellery {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -351px;
+}
+
+.guru_purple_mall {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -351px;
+}
+
+.guru_purple_market {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -351px;
+}
+
+.guru_purple_star {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -351px;
+}
+
+.guru_purple_store {
+    width: 48px;
+    height: 48px;
+    background-position: -1px -401px;
+}
+
+.guru_purple_supermarket {
+    width: 48px;
+    height: 48px;
+    background-position: -51px -401px;
+}
+
+.guru_red_dentist {
+    width: 48px;
+    height: 48px;
+    background-position: -101px -401px;
+}
+
+.guru_red_health {
+    width: 48px;
+    height: 48px;
+    background-position: -151px -401px;
+}
+
+.guru_red_pharmacy {
+    width: 48px;
+    height: 48px;
+    background-position: -201px -401px;
+}
+
+.guru_red_star {
+    width: 48px;
+    height: 48px;
+    background-position: -251px -401px;
+}
+
+.guru_red_vet {
+    width: 48px;
+    height: 48px;
+    background-position: -301px -401px;
+}
+
+.guru_turquoise_WC {
+    width: 48px;
+    height: 48px;
+    background-position: -351px -401px;
+}
+
+.guru_turquoise_cinema {
+    width: 48px;
+    height: 48px;
+    background-position: -401px -401px;
+}
+
+.guru_turquoise_monument {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -1px;
+}
+
+.guru_turquoise_museum {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -51px;
+}
+
+.guru_turquoise_music {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -101px;
+}
+
+.guru_turquoise_star {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -151px;
+}
+
+.guru_turquoise_theater {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -201px;
+}
+
+.guru_turquoise_theme_park {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -251px;
+}
+
+.guru_turquoise_viewpoint {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -301px;
+}
+
+.guru_turquoise_zoo {
+    width: 48px;
+    height: 48px;
+    background-position: -451px -351px;
+}
