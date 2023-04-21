@@ -12,11 +12,22 @@ describe('furkot guru data', function () {
 
   it('should be consistent', function () {
     assert(data.toGalileo === data.toGuru);
-    Object
-      .entries(data.toFurkot)
-      .forEach(
-        ([guruIcon, furkotIcon]) => assert.equal(guruIcon, data.toGuru[furkotIcon])
-      );
-  });
-
+    Object.entries(Object
+      .entries(data.toGuru)
+      .reduce((result, [, guruIcon]) => {
+        result[guruIcon] = result[guruIcon] || 0;
+        result[guruIcon] += 1;
+        return result;
+      }, {}))
+      .forEach(([guruIcon, counter]) => {
+        if (counter > 1) {
+          const furkotIcon = data.toFurkot[guruIcon];
+          assert(furkotIcon !== undefined, `Guru ${guruIcon}`);
+          assert(data.toGuru[furkotIcon].toString() === guruIcon, `Guru ${guruIcon}`);
+        }
+        else {
+          assert(data.toFurkot[guruIcon] === undefined);
+        }
+      });
+    });
 });
