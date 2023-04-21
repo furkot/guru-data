@@ -1,4 +1,11 @@
 
+2.1.0 / 2023-04-22
+==================
+
+ * add sprite with Guru Maps symbols
+ * fix mismatched and add missing symbols
+ * separate data and functions
+
 2.0.0 / 2023-03-21
 ==================
 
